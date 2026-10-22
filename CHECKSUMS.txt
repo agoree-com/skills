@@ -1,0 +1,4 @@
+Agoree skills 2.6.1 (OpenClaw / Hermes / API) - SHA-256
+bf5d0263f054bc8cc61386e96112114161c18dfc4c3b6c90f1d810f7c8da97ac  skills/agoree/SKILL.md
+1215850799e0577e48d3c984830832b801682665ae0dff31e013e2dcebff8d21  openclaw/agoree/SKILL.md
+413890293db42b40876352be428867c193e056b916169749b7ca39722ad42b18  api/agoree/SKILL.md
